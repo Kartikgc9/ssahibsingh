@@ -1,8 +1,8 @@
-<meta name="title" content="Sahib Singh">
-<meta name="description" content="Hi, I'm Sahib Singh. 🎓 I am currently pursuing my Bachelor's in Information Technology 🌱 I’m currently learning DSA 📫 Reach me at snone181@gmail.com">
-<meta name="keyword" content="Sahib Singh, Sahib, Singh, Sahib Singh Github, Github, NITJ, NIT Jalandhar Github">
+<meta name="title" content="Kartik Awadh Yadav">
+<meta name="description" content="Hi, I'm Kartik. 🎓 I am currently pursuing my Bachelor's in Thapar 🌱 I’m currently learning AI/ML 📫 Reach me at kartikawadh2004yadav@gmail.com">
+<meta name="keyword" content="Kartik Awadh Yadav, Kartik, Kartik, Kartik Kartik Github, Github, TIET, TIET Github">
 
-<h1 align="center">Hi, I'm Sahib Singh 👋
+<h1 align="center">Hi, I'm Kartik Yadav 👋
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height = "30px"> -->
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p>
@@ -10,18 +10,18 @@
 <h2>About Me🧑🏼‍💻</h2>
 
 <ul type="none">
-    <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
-    <li>📫 Reach me  at <strong>snone181@gmail.com</strong></li>
-    <li>🔭 I’m currently working on <a href="https://soorme.com" >Soorme</a></li>
-    <li>👨‍💻 All of my projects are available <a href="https://ssahibsingh.github.io">here</a></li>
+    <li>🎓 I am currently pursuing my <strong>Bachelor's in Electronics Engineering</strong></li>
+    <li>📫 Reach me  at <strong>kartikawadh2004yadav@gmail.com</strong></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/Kartikgc9/Data-Scrapping-Projects" >Data Scrapping</a></li>
+    <li>👨‍💻 All of my projects are available <a href="https://Kartigc9.github.io">here</a></li>
     <li>📄 Know about my experiences <a href="https://ssahibsingh.github.io/resume">here</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
-    <a href="https://twitter.com/ssahibsingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssahibsingh_" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/ssahibsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-sahibsingh-" height="30" width="40" /></a>
-    <a href="https://instagram.com/ssahibsingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssahibsingh_" height="30" width="40" /></a>
+    <a href="https://twitter.com/awadh_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssahibsingh_" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/kartik-awadh-yadav-941300222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-sahibsingh-" height="30" width="40" /></a>
+    <a href="https://instagram.com/kartikkyadavvvv?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssahibsingh_" height="30" width="40" /></a>
 </p> -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssahibsingh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssahibsingh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ssahibsingh_)
